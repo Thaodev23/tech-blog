@@ -1,7 +1,10 @@
 # Tech Blog
+```
+Github repo:
+https://github.com/Thaodev23/tech-blog
+```
 
 ## User Story
-
 ```
 AS A tech employee
 I WANT to make a blog site about technologies
