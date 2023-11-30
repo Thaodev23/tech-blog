@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Apple is a great company to work for.",
+    "content": "The company Apple provide a competitive salary, tuition assitance, and other accomandations.",
+    "user_id": 5
+  },
+  {
+    "title": "Meta is updating it's software for more convenient uses.",
+    "content": "Meta is updating all it's tech so that they can be convenient in all sorts of way for the users.",
+    "user_id": 2
+  },
+  {
+    "title": "Beware of the scammers.",
+    "content": "Sending out awareness to the local population to avoid scams on the internet.",
+    "user_id": 1
+  }
+]
