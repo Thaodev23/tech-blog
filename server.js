@@ -1,3 +1,8 @@
+// Author: Joey Thao
+// Collaborators: Jason Yang, Sichoun Lee
+// Date: 11/29/2023
+// Description: Tech-blog. 
+
 const express = require('express');
 const routes = require('./routes');
 const sequelize = require('./config/connection');
